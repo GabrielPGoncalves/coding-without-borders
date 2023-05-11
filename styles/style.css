@@ -55,7 +55,7 @@ body{
 
 .banner hgroup {
     margin: 0;
-    padding-top: 110px;
+    padding-top: 140px;
     text-align: center;
     color:rgb(241, 241, 241);
 }
@@ -63,6 +63,7 @@ body{
 .banner h1 {
     font-size: 48px;
     margin-bottom: 0;
+    margin-top: 0;
 }
 
 .banner h2 {
@@ -71,7 +72,7 @@ body{
 }
 
 .introduction {
-    padding-top: 10px;
+    padding-top: 60px;
     height: 220px;
     background-color: rgb(242, 243, 243);
 }
@@ -87,4 +88,9 @@ body{
 .introduction p {
     margin: 10px 200px;
     font-size: 20px;
+}
+
+.content {
+    height: 281px;
+    background-color: rgb(51, 51, 51);
 }
